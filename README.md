@@ -12,7 +12,7 @@ A portfolio to showcase my skills, projects, and experience as a web developer, 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/my-portfolio](https://github.com/AnonX9/cosmic-portfolio).git
+   git clone [https://github.com/AnonX9/cosmic-portfolio](https://github.com/AnonX9/cosmic-portfolio).git
    cd cosmic-portfolio)
    ```
 
